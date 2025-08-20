@@ -1,3 +1,3 @@
-# Machine Learning
+# Pokédex Model
 
-TODO
+Pokémon classification model
